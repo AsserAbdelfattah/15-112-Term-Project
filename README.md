@@ -5,6 +5,10 @@ Open and run CosmicAdventureBase.py for the game.
 
 ########################################################################################
 
+See a video description at: https://www.youtube.com/watch?v=ZKLdh5R5OeE
+
+########################################################################################
+
 Python needs pygame to be installed. If you dont have it yet, use pip command to install it.
 
 ########################################################################################
