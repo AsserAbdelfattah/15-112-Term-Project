@@ -99,7 +99,7 @@ class Game:
         self.defualtCooldown = 0.25
         self.cooldownTimer = self.defualtCooldown
         self.animationDone = False
-        self.damage = 20
+        self.damage = 1
 
         self.gameLoop()
 
