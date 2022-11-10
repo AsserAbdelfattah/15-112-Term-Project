@@ -90,7 +90,7 @@ class Game:
         self.level2var = CosmicAdventureLevel2.Level2()
         self.level2Done = False
         self.level3var = CosmicAdventureLevel3.Level3()
-        self.level3Done = True
+        self.level3Done = False
         self.levelBossvar = CosmicAdventureLevelBoss.LevelBoss()
         self.levelBossDone = False
         self.powerUpActive = False
